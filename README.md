@@ -1,3 +1,6 @@
+# Introduction
+This repository is used to learn flutter. Ideally there will be many .dart files in the lib folder than can all be pasted into main.dart to run different apps.
+
 # stash_spot
 
 A new Flutter project.
