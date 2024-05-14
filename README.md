@@ -3,7 +3,7 @@ This repository is used to learn flutter. Ideally there will be many .dart files
 
 # stash_spot
 
-A new Flutter project.
+Track any storage system with Stash Spot! 
 
 ## Getting Started
 
